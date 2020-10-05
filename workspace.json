@@ -114,28 +114,6 @@
           }
         }
       }
-    },
-    "my-app-cap": {
-      "projectType": "application",
-      "root": "apps/my-app-cap",
-      "sourceRoot": "apps/my-app-cap/src",
-      "architect": {
-        "add": {
-          "builder": "@nxtend/capacitor:add"
-        },
-        "copy": {
-          "builder": "@nxtend/capacitor:copy"
-        },
-        "open": {
-          "builder": "@nxtend/capacitor:open"
-        },
-        "sync": {
-          "builder": "@nxtend/capacitor:sync"
-        },
-        "update": {
-          "builder": "@nxtend/capacitor:update"
-        }
-      }
     }
   },
   "cli": {

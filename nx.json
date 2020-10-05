@@ -29,9 +29,6 @@
     "my-app-e2e": {
       "tags": [],
       "implicitDependencies": ["my-app"]
-    },
-    "my-app-cap": {
-      "tags": []
     }
   }
 }

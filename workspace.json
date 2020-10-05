@@ -12,7 +12,7 @@
           "options": {
             "outputPath": "dist/apps/my-app",
             "index": "apps/my-app/public/index.html",
-            "main": "apps/my-app/src/main.tsx",
+            "main": "apps/my-app/src/index.tsx",
             "polyfills": "apps/my-app/src/polyfills.ts",
             "tsConfig": "apps/my-app/tsconfig.app.json",
             "assets": [

@@ -71,6 +71,21 @@
             "jestConfig": "apps/my-app/jest.config.js",
             "passWithNoTests": true
           }
+        },
+        "add": {
+          "builder": "@nxtend/capacitor:add"
+        },
+        "copy": {
+          "builder": "@nxtend/capacitor:copy"
+        },
+        "open": {
+          "builder": "@nxtend/capacitor:open"
+        },
+        "sync": {
+          "builder": "@nxtend/capacitor:sync"
+        },
+        "update": {
+          "builder": "@nxtend/capacitor:update"
         }
       }
     },

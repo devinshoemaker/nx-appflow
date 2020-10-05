@@ -11,7 +11,7 @@
           "builder": "@nrwl/web:build",
           "options": {
             "outputPath": "dist/apps/my-app",
-            "index": "apps/my-app/src/index.html",
+            "index": "apps/my-app/public/index.html",
             "main": "apps/my-app/src/main.tsx",
             "polyfills": "apps/my-app/src/polyfills.ts",
             "tsConfig": "apps/my-app/tsconfig.app.json",
